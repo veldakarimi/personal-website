@@ -41,18 +41,18 @@ social_media:
   # youtube: your_username
 
 topics:
-   - name: Python
+  - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
   - name: Django
     web_url: https://github.com/topics/django
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/django/django.png
-
+  
   - name: React
     web_url: https://github.com/topics/react
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react/react.png
-    
- - name: Tensorflow
+
+  - name: Tensorflow
     web_url: https://github.com/topics/tensorflow
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/tensorflow/tensorflow.png
+    image_url: https://raw.githubusercontent.com/github/explore/424902f9441eeb28663ad3f45e25398ac3445c79/topics/tensorflow/tensorflow.png
