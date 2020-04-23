@@ -30,18 +30,29 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
-  facebook: timex4u
-  linkedin: timtech4u
-  medium: timtech4u
-  stackoverflow: 4620227
-  twitter: timtech4u
+  
+  hackerrank: https://www.hackerrank.com/veldakiara 
+  twitter: https://twitter.com/VeldaKiara
+  medium: https://medium.com/@veldakarimi
+  linkedin: https://www.linkedin.com/in/veldakiara/
+  dev.to: https://dev.to/veldakiara 
+  wordpress: https://veldakarimi.wordpress.com/
+
   # youtube: your_username
 
 topics:
-  - name: EcmaScript
-    web_url: https://github.com/topics/es6
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/es6/es6.png
-
-  - name: Python
+   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
+
+  - name: Django
+    web_url: https://github.com/topics/django
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/django/django.png
+
+  - name: React
+    web_url: https://github.com/topics/react
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react/react.png
+    
+ - name: Tensorflow
+    web_url: https://github.com/topics/tensorflow
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/tensorflow/tensorflow.png
