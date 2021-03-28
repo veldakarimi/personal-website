@@ -26,6 +26,8 @@ projects:
     forks: true
     projects:
     # - repo-name
+     - Leetcode
+     - Hackerank
    
       
 
